@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e51d526-8a0b-4ea6-9d5d-2618f8555945"
+      }
+    },
+    "owner": "adolphe350"
   }
 }

@@ -386,6 +386,3 @@ const styles = StyleSheet.create({
     flex: 1,
   },
 });
-
-// Fix missing TouchableOpacity import
-import { TouchableOpacity } from 'react-native';
